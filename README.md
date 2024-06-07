@@ -2,15 +2,15 @@ This is to learn basic terraform from free code camp
 
 
 
-az login
-terraform init
-terraform fmt
-terraform plan
-terraform apply /////// -destory,-auto-approve, -refresh-only
-terraform state list
-terraform state show <whatever>
-ssh -i~/.ssh/mtcazurekey adminuser@<public ip>
+az login  <br>
+terraform init <br>
+terraform fmt <br>
+terraform plan <br>
+terraform apply /////// -destory,-auto-approve, -refresh-only <br>
+terraform state list <br>
+terraform state show <whatever> <br>
+ssh -i~/.ssh/mtcazurekey adminuser@<public ip> <br>
 
-terraform apply -replace <name>
+terraform apply -replace <name> <br>
 
 lsb_release -a
