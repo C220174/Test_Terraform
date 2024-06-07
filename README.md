@@ -1,4 +1,4 @@
-This is to learn basic terraform from free code camp
+This is to learn basic terraform from free code camp by making a dev envrionment using linux vm 
 
 
 
